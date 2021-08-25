@@ -12,6 +12,33 @@
 ### 💻 Project
 
 A simple CRUD implementation with TypeORM in Node.js. API sever implemented with Express.
+<br>
+
+Base URL: `http://localhost:3333`
+
+
+### CREATE
+
+`POST:  /user`<br>
+`{ "name": "foo" }`
+<br><br>
+
+### READ <br>
+`GET:  /user` - All<br>
+`GET:  /user/1` - Specific
+<br><br>
+
+### UPDATE
+`PUT:  /user`<br>
+`{ "id": 1 "name": "foo bar" } `
+<br><br>
+
+### DELETE
+`DELETE:  user/`<br>
+`{ "id": 1 } `
+
+<br>
+
 
 ### 🚀 Features and Technologies
 

@@ -9,7 +9,7 @@
   <a href="#-licença">Licence</a>
 </p>
 
-### 💻 Project
+## 💻 Project
 
 A simple CRUD implementation with TypeORM in Node.js. API sever implemented with Express.
 <br>
@@ -18,29 +18,27 @@ Base URL: `http://localhost:3333`
 
 
 ### CREATE
-
 `POST:  /user`<br>
 `{ "name": "foo" }`
-<br><br>
+<br>
 
-### READ <br>
+### READ
 `GET:  /user` - All<br>
 `GET:  /user/1` - Specific
-<br><br>
+<br>
 
 ### UPDATE
 `PUT:  /user`<br>
 `{ "id": 1 "name": "foo bar" } `
-<br><br>
+<br>
 
 ### DELETE
 `DELETE:  user/`<br>
 `{ "id": 1 } `
-
 <br>
 
 
-### 🚀 Features and Technologies
+## 🚀 Features and Technologies
 
 [TypeORM](https://typeorm.io/)
 <br>
@@ -48,7 +46,7 @@ Base URL: `http://localhost:3333`
 <br>
 [Express](https://expressjs.com)
 
-### 🤔 How to contribute
+## 🤔 How to contribute
 
 - Create a fork from this repository;
 - Make a branch and your feature: `git checkout -b my-feature`;
@@ -56,6 +54,6 @@ Base URL: `http://localhost:3333`
 - Push your branch: `git push origin my-feature`.
 - Create a pull request [here](https://github.com/SidiBecker/typeorm-nodejs-crud/pulls)".
 
-### 📝 Licence
+## 📝 Licence
 
 This project is under MIT License. Se the [LICENSE](LICENSE) file for more informations

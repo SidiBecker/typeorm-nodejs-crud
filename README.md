@@ -54,6 +54,6 @@ Base URL: `http://localhost:3333`
 - Push your branch: `git push origin my-feature`.
 - Create a pull request [here](https://github.com/SidiBecker/typeorm-nodejs-crud/pulls)".
 
-## 📝 Licence
+## 📝 License
 
 This project is under MIT License. Se the [LICENSE](LICENSE) file for more informations

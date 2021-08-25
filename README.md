@@ -52,7 +52,7 @@ Base URL: `http://localhost:3333`
 - Make a branch and your feature: `git checkout -b my-feature`;
 - Do a commit with yout implementations: `git commit -m 'feat: my new feature'`;
 - Push your branch: `git push origin my-feature`.
-- Create a pull request [here](https://github.com/SidiBecker/typeorm-nodejs-crud/pulls)".
+- Create a pull request [here](https://github.com/SidiBecker/typeorm-nodejs-crud/pulls).
 
 ## 📝 License
 

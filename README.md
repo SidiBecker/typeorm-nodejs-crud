@@ -17,22 +17,22 @@ A simple CRUD implementation with TypeORM in Node.js. API sever implemented with
 Base URL: `http://localhost:3333`
 
 
-### CREATE
+#### CREATE
 `POST:  /user`<br>
 `{ "name": "foo" }`
 <br>
 
-### READ
+#### READ
 `GET:  /user` - All<br>
 `GET:  /user/1` - Specific
 <br>
 
-### UPDATE
+#### UPDATE
 `PUT:  /user`<br>
 `{ "id": 1 "name": "foo bar" } `
 <br>
 
-### DELETE
+#### DELETE
 `DELETE:  user/`<br>
 `{ "id": 1 } `
 <br>
